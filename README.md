@@ -24,9 +24,9 @@ On the systems side, I have some experience with **Ubuntu scripting** and **Bash
 
 ### 📫 Let’s Connect
 - GitHub: [polaariiis](https://github.com/polaariiis)  
-- (Optional: LinkedIn / portfolio / email if you want to share)  
+- Telegram: [@polaariiis](https://t.me/polaariiis)  
+- Email: **oavazbek0607@gmail.com**  
 
 ---
 
 ⭐ *I’m just getting started on this GitHub journey — more projects and experiments coming soon!*
-
