@@ -1,32 +1,46 @@
-# Hey there, I'm Avazbek 
+# Avazbek
 
-I’m a developer who loves **building things with code**. Most of the time you’ll find me working in **C++**, exploring the ins and outs of **game engine design**.  
-Along the way, I also enjoy working with **C#**, **Python**, and web tech like **JavaScript, HTML, CSS, and SCSS**.  
+Software developer with a primary focus on C++ and systems-level programming. My current work centers on game engine architecture, engine subsystems, and software design patterns. I also develop applications and tools using C#, Python, and JavaScript.
 
-On the systems side, I have some experience with **Ubuntu scripting** and **Bash scripting**, which I use to automate tasks and make my workflow smoother.  
+## Technical Skills
 
----
+**Languages**
 
-### What I Work With
-- **Languages:** C++, C#, Python, JavaScript, HTML, CSS, SCSS  
-- **Game Development:** Unity, Unreal (currently exploring engines + design patterns)  
-- **Scripting & OS:** Ubuntu, Bash scripting  
-- **Tools:** Git, GitHub, VS Code, Linux  
+* C++
+* C#
+* Python
+* JavaScript
+* HTML
+* CSS
+* SCSS
 
----
+**Game Development**
 
-### What I’m Working On
-- Experimenting with **game engine concepts** in C++  
-- Writing **small tools and scripts** (Python & Bash) to speed up development  
-- Exploring **web projects** for fun and learning  
+* Unity
+* Unreal Engine
+* Engine Architecture
+* Design Patterns
 
----
+**Systems & Scripting**
 
-### Let’s Connect
-- GitHub: [polaariiis](https://github.com/polaariiis)  
-- Telegram: [@polaariiis](https://t.me/polaariiis)  
-- Email: **oavazbek0607@gmail.com**  
+* Linux (Ubuntu)
+* Bash Scripting
 
----
+**Tools**
 
-⭐ *I’m just getting started on this GitHub journey — more projects and experiments coming soon!*
+* Git
+* GitHub
+* Visual Studio Code
+
+## Current Focus
+
+* Game engine development and architecture in C++
+* Systems programming and performance-oriented software
+* Development tooling and automation using Python and Bash
+* Software design patterns and scalable application design
+
+## Contact
+
+**GitHub:** github.com/polaariiis
+**Telegram:** @polaariiis
+**Email:** [oavazbek0607@gmail.com](mailto:oavazbek0607@gmail.com)
