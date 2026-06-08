@@ -6,8 +6,7 @@ Software developer with a primary focus on C++ and systems-level programming. My
 
 **Languages**
 
-* C++
-* C#
+* C/C++/C#
 * Python
 * JavaScript
 * HTML
